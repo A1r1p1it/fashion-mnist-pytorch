@@ -8,7 +8,7 @@ This project implements two neural network architectures to classify Fashion-MNI
 - A simple feedforward neural network
 - A Convolutional Neural Network (CNN)
 
-The CNN achieved **89.90% test accuracy**, demonstrating the effectiveness of convolutional layers for image classification tasks.
+The CNN achieved **90.34% test accuracy**, demonstrating the effectiveness of convolutional layers for image classification tasks.
 
 ## Dataset
 
@@ -28,7 +28,7 @@ The CNN achieved **89.90% test accuracy**, demonstrating the effectiveness of co
 - Linear layer (128 → 10)
 
 **Results:**
-- Training Accuracy: 92.08% 
+- Training Accuracy: 92.08%
 - Test Accuracy: 88.46%
 
 ### Model 2: Convolutional Neural Network (CNN)
@@ -48,7 +48,7 @@ The CNN achieved **89.90% test accuracy**, demonstrating the effectiveness of co
 | Feedforward | 92.08% | 88.46% |
 | CNN | 92.06% | 90.34% |
 
-The CNN outperformed the simple feedforward network by **2.34%**, showing the advantage of convolutional layers for spatial pattern recognition in images.
+The CNN outperformed the simple feedforward network by **1.88%**, showing the advantage of convolutional layers for spatial pattern recognition in images.
 
 ## Technologies Used
 
