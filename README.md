@@ -45,8 +45,8 @@ The CNN achieved **89.90% test accuracy**, demonstrating the effectiveness of co
 
 | Model | Train Accuracy | Test Accuracy |
 |-------|----------------|---------------|
-| Feedforward | 90.11% | 87.56% |
-| CNN | 91.20% | 89.90% |
+| Feedforward | 92.08% | 88.46% |
+| CNN | 92.06% | 90.34% |
 
 The CNN outperformed the simple feedforward network by **2.34%**, showing the advantage of convolutional layers for spatial pattern recognition in images.
 
