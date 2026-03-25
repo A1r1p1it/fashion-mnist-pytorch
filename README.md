@@ -28,8 +28,8 @@ The CNN achieved **89.90% test accuracy**, demonstrating the effectiveness of co
 - Linear layer (128 → 10)
 
 **Results:**
-- Training Accuracy: 90.11%
-- Test Accuracy: 87.56%
+- Training Accuracy: 92.08% 
+- Test Accuracy: 88.46%
 
 ### Model 2: Convolutional Neural Network (CNN)
 **Architecture:**
@@ -38,8 +38,8 @@ The CNN achieved **89.90% test accuracy**, demonstrating the effectiveness of co
 - Linear classifier (hidden_units * 7 * 7 = 10 * 7 * 7 = 490)
 
 **Results:**
-- Training Accuracy: 91.20%
-- Test Accuracy: 89.90%
+- Training Accuracy: 92.06%
+- Test Accuracy: 90.34%
 
 ## Performance Comparison
 
